@@ -1,12 +1,12 @@
 {
-    "name": "moontoast/math",
+    "name": "mi-la01/kt_moontoast-math",
     "description": "A mathematics library, providing functionality for large numbers",
     "type": "library",
     "keywords": ["math", "bcmath"],
     "license": "Apache-2.0",
     "support": {
-        "issues": "https://github.com/ramsey/moontoast-math/issues",
-        "source": "https://github.com/ramsey/moontoast-math"
+        "issues": "https://github.com/MI-LA01/kt_moontoast-math/issues",
+        "source": "https://github.com/MI-LA01/kt_moontoast-math"
     },
     "require": {
         "php": ">=5.3.3",
